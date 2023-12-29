@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/cartoon-winter-scenery-with-rocky-mountains_107791-15216.jpg?w=826&t=st=1703883314~exp=1703883914~hmac=efc0af48b09ad22327bf9162a36dadd7a37b803ed54c5a96b0a6c6016a3f2e51"  />
+  <img height="200" src=2208_w026_n002_2436b_p1_2436.jpg />
 </div>
 
 ###
