@@ -1,6 +1,5 @@
-![logo](https://i.kym-cdn.com/photos/images/original/002/374/472/f6b.png)
 <div align="center">
-  <img height="200" width= "1000" src="https://i.kym-cdn.com/photos/images/original/002/374/472/f6b.png"  />
+  <img height="200" width= "1080" src="https://i.kym-cdn.com/photos/images/original/002/374/472/f6b.png"  />
 </div>
 
 ###
